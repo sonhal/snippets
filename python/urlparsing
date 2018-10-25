@@ -1,0 +1,10 @@
+from urllib.parse import urlparse
+
+
+test_url = "oracle://user@ßname2:passw2@ord@host:port/service"
+
+result = urlparse(test_url)
+
+print(result)
+print(result.username)
+print(result.password)
