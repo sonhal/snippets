@@ -35,7 +35,7 @@
 # Dataverk
 
 []()
-<img align="left" src="../resources/dataverk_lightc.png" width="70">
+<img align="left" src="../resources/dataverk_lightc.png" width="90">
 
 # Dataverk
 
