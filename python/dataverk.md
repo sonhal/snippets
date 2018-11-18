@@ -45,7 +45,7 @@
 # Dataverk
 
 []()
-<img align="left" src="../resources/dataverk_clean_nrm_color.png" width="80">
+<img align="left" src="../resources/dataverk_nrm_color.png" width="80">
 
 # Dataverk
 
