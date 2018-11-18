@@ -40,6 +40,6 @@
 # Dataverk
 
 []()
-<img align="left" src="../resources/dataverk_clean_acc_color.png" width="70">
+<img align="left" src="../resources/dataverk_clean_acc_color.png" width="80">
 
 # Dataverk
