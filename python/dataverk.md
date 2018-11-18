@@ -38,9 +38,10 @@
 <img align="left" src="../resources/dataverk_lightc.png" width="90">
 
 # Dataverk
+<br>
 
 []()
-<img align="left" src="../resources/dataverk_clean_acc_color.png" width="80">
+<img align="left" src="../resources/dataverk_clean_acc_color.png" width="100">
 
 # Dataverk
 <br>
