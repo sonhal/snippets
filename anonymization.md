@@ -1,5 +1,9 @@
 NAMES
 
-PrivaccyProtect
+PrivacyProtect
+
 Confidant
+
 AnonyMate
+
+DeIndentifier
